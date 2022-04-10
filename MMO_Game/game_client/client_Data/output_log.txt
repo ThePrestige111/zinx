@@ -1,0 +1,146 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Parallels Display Adapter (WDDM) (ID=0x353030)
+    Vendor:   Unknown (ID=344c5250)
+    VRAM:     2045 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 3024x1650 120Hz; virtual: 3024x1650 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.067750 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1fe0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.418208 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 1.188583 ms (FindLiveObjects: 0.038416 ms CreateObjectMapping: 0.057666 ms MarkObjects: 0.827041 ms  DeleteObjects: 0.227750 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 10.211.55.2:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect Suc
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerController singleton already created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player: { "pid": 1 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+202 count:　1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Parallels Display Adapter (WDDM) (ID=0x353030)
+    Vendor:   Unknown (ID=344c5250)
+    VRAM:     2045 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.180 seconds
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\Mac\Home\Desktop\Projects\Zinx\MMO_Game\game_client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 3024x1650 120Hz; virtual: 3024x1650 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.108208 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 970 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.593916 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 1.174708 ms (FindLiveObjects: 0.044875 ms CreateObjectMapping: 0.063708 ms MarkObjects: 0.803250 ms  DeleteObjects: 0.205041 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 10.211.55.2:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect Suc
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generateP/aormennrtn ioefU iRyenciteTeruaBnnsifgo.mgie ne.nc pep  iLhipnren:  r4p2r)y
+ 
+PCaoenCsnirdleer  iugseion gl etdh er aSee!t
+ P
+(aireeanet  :mbeitdhlovdei/suean,iwtty /hb uoillPds/taorStaisfaagcmtnt sst /ogfaesen ehir aitle r/ecaonmlocmloonient/tirnuannidmscel/ UatnhteErg ntDhbangwBridnodiinnagtso. gne nc.lec,pwpi hLcin ep r4v2n) 
+
+on UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 2 pos: { "x": 167, "z": 149 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player: { "pid": 2 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+202 count:　2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player: 2 leave home
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
